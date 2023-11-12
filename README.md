@@ -1,16 +1,3 @@
-# mycatalogo
+# zonas_arqueologicas_mex
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este es un proyecto universitario que se basa en un catálogo de zonas arqueológicas de México, usando tecnologías como Flutter (Dart), un archivo JSON para el almacenamiento de datos fijos y limitado (cambiará a un gestor de base de datos en su desarrollo al agregarle más registros), dependencias que usan tecnologías de AR (model_viewer_plus) en la presentación de modelos 3D y su función en RA

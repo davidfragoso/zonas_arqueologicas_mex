@@ -1,0 +1,20 @@
+Título: Documentación del Proyecto de Zonas Arqueológicas
+Introducción
+Descripción general del proyecto.
+Objetivo del proyecto.
+Tecnologías y librerías utilizadas (Flutter, Dart, etc.)
+Configuración y Requerimientos
+Versión de Flutter y Dart necesarias.
+Dependencias adicionales y cómo instalarlas.
+Estructura del Código
+Descripción de la estructura de archivos y directorios del proyecto.
+Detalle de Implementación
+Descripción detallada de las clases, métodos y funciones principales en el código.
+
+MyApp: Clase principal de la aplicación.
+ZonaArqueologica: Clase que representa una zona arqueológica.
+ModelViewPage: Clase que representa la primera mitad de la pantalla.
+ZonasPageState: Clase que representa la segunda mitad de la pantalla.
+cargarZonas: Función que carga las zonas arqueológicas desde un archivo JSON.
+_showZonaDetails: Función que muestra los detalles de una zona arqueológica.
+... (y así sucesivamente con otras clases y funciones importantes)

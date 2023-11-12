@@ -1,0 +1,62 @@
+name: mycatalogo
+description: A new Flutter project.
+publish_to: "none"
+
+version: 0.1.0
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  model_viewer_plus: ^1.7.0
+  vector_math: any
+  carousel_slider: ^4.2.1
+  # arcore_flutter_plugin: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/zonas_arqueologicas.json
+
+    - assets/modelos/chichen_itza.glb
+    - assets/modelos/tulum.glb
+    - assets/modelos/labna.glb
+    - assets/modelos/ruins.glb
+    - assets/modelos/dzib.glb 
+    - assets/modelos/el_rey.glb
+    - assets/modelos/oxkintok.glb
+    - assets/modelos/coba.glb
+    - assets/modelos/chacmultun.glb
+    - assets/modelos/edzna.glb
+    
+
+    - assets/img/chichen.jpg
+    - assets/img/chichen2.jpg
+    - assets/img/chacmultun.jpg
+    - assets/img/chacmultun2.jpg
+    - assets/img/tulum.jpg
+    - assets/img/tulum2.jpg
+    - assets/img/labna.jpg
+    - assets/img/labna2.jpg
+    - assets/img/oxkintok.jpg
+    - assets/img/oxkintok2.jpg
+    - assets/img/elrey.jpg
+    - assets/img/elrey2.jpg
+    - assets/img/coba.jpg
+    - assets/img/coba2.jpg
+    - assets/img/edzna.jpg
+    - assets/img/edzna2.jpg
+    - assets/img/dzib.jpg
+    - assets/img/dzib2.jpg
+    - assets/img/kanki.jpg
+    - assets/img/kanki2.jpg
+
+    - assets/img/peninsula2.jpg

@@ -1,0 +1,114 @@
+{
+  "zonas": [
+    {
+      "id": 1,
+      "nombre": "Chichen Itza",
+      "descripcion": "Una antigua ciudad maya ubicada en Yucatan.",
+      "estado": "Yucatan",
+      "historia": "Chichen Itza fue una ciudad o un centro ceremonial que floreció entre el 750 y el 1200 d.C. en la región que ahora es el estado mexicano de Yucatán. Es uno de los sitios arqueológicos más visitados en México y fue nombrado una de las Nuevas Siete Maravillas del Mundo en 2007.",
+      "modelo": "assets/modelos/chichen_itza.glb",
+      "imagenes": ["assets/img/chichen.jpg", "assets/img/chichen2.jpg"],
+      "nodoX": 0.51,
+      "nodoY": 0.4
+    },
+    {
+      "id": 2,
+      "nombre": "Chacmultun",
+      "descripcion": "Un complejo arqueológico maya ubicado en Yucatán, compuesto por varios grupos arquitectónicos.",
+      "estado": "Yucatan",
+      "historia": "Chacmultun, que significa 'piedras rojas' en maya, fue un centro ceremonial y residencial que tuvo su apogeo en el período Clásico Tardío. Se cree que su nombre proviene del color rojizo de algunas de sus construcciones. Este sitio es conocido por sus bien preservadas pinturas murales y estelas.",
+      "modelo": "assets/modelos/ruins.glb",
+      "imagenes": ["assets/img/chacmultun.jpg", "assets/img/chacmultun2.jpg"],
+      "nodoX": 0.64,
+      "nodoY": 0.59
+    },
+    {
+      "id": 3,
+      "nombre": "Tulum",
+      "descripcion": "Un sitio arqueologico que se ubica en la costa del Mar Caribe.",
+      "estado": "Quintana Roo",
+      "historia": "Tulum fue una ciudad amurallada del Imperio Maya ubicada en el actual estado de Quintana Roo, en la costa del Mar Caribe. Fue uno de los últimos asentamientos construidos por los mayas y funcionó como un importante puerto marítimo para Cobá.",
+      "modelo": "assets/modelos/tulum.glb",
+      "imagenes": ["assets/img/tulum.jpg", "assets/img/tulum2.jpg"],
+      "nodoX": 0.2,
+      "nodoY": 0.52
+    },
+    {
+      "id": 4,
+      "nombre": "Labna",
+      "descripcion": "Un importante complejo arqueológico maya ubicado en la región Puuc.",
+      "estado": "Yucatan",
+      "historia": "Labna es conocido por sus intrincados detalles arquitectónicos y su arco ceremonial, que es uno de los ejemplos más representativos del estilo arquitectónico Puuc. El sitio floreció durante el período Clásico Tardío, entre 600 y 900 d.C.",
+      "modelo": "assets/modelos/labna.glb",
+      "imagenes": ["assets/img/labna.jpg", "assets/img/labna2.jpg"],
+      "nodoX": 0.74,
+      "nodoY": 0.6
+    },
+    {
+      "id": 5,
+      "nombre": "Oxkintok",
+      "descripcion": "La mayor parte de las ciudades mayas de la región Puuc, como ésta, están dedicadas a Chaak, dios de la lluvia",
+      "estado": "Yucatan",
+      "historia": "Oxkintok es considerado uno de los asentamientos más importantes del norte de Yucatán y, quizás, la ciudad más antigua de la región Puuc central. Su posición le permitió controlar el flujo de bienes comerciales procedentes del sur de la península y conectarse con otras culturas contemporáneas. Su cronología principal es Preclásico Superior y se extiende hasta el Posclásico Temprano, del 300 a. C., a aproximadamente 1200 d. C.",
+      "modelo": "assets/modelos/oxkintok.glb",
+      "imagenes": ["assets/img/oxkintok.jpg", "assets/img/oxkintok2.jpg"],
+      "nodoX": 0.82,
+      "nodoY": 0.38
+    },
+    {
+      "id": 6,
+      "nombre": "Cobá",
+      "descripcion": "Se ubica en la parte oriental del poblado de Cobá, en el municipio de Solidaridad, Quintana Roo.",
+      "estado": "Quintana Roo",
+      "historia": "Este asentamiento está situado en medio de un entorno selvático y es considerado el sitio obligado del turismo que busca relación de ecología e historia. Los edificios más importantes del sitio lo constituyen las construcciones ceremoniales de Chac Mul, Macanxoc y Nohoch Mul; este último, con una altura de 42 metros, monumento piramidal más alto que el Castillo de Chichén Itzá y la pirámide de Uxmal.",
+      "modelo": "assets/modelos/coba.glb",
+      "imagenes": ["assets/img/coba.jpg", "assets/img/coba2.jpg"],
+      "nodoX": 0.26,
+      "nodoY": 0.45
+    },
+    {
+      "id": 7,
+      "nombre": "El Rey",
+      "descripcion": "Sitio arqueológico ubicado en la Zona Hotelera de Cancún.",
+      "estado": "Quintana Roo",
+      "historia": "No se conoce el nombre original del sitio, pero se le denominó “El Rey”, debido a que en ese lugar se descubrió la porción superior de una escultura que representa un rostro humano ornamentado con un elaborado tocado que seguramente retrata a un personaje de alto rango. Al igual que otros poblados costeros de la zona, El Rey debió haber funcionado como el centro de una pequeña ciudad dedicada principalmente al comercio marítimo y las actividades pesqueras, pues se encuentra ubicado en una posición privilegiada que permite el acceso tanto al Mar Caribe, como a la Laguna Nichupté. Actualmente la porción explorada, que incluye cuarenta y siete estructuras, corresponde a una zona religiosa y administrativa en la que seguramente se llevaron a cabo importantes ceremonias y vivieron los personajes de mayor status en la vida política de esa región.",
+      "modelo": "assets/modelos/el_rey.glb",
+      "imagenes": ["assets/img/elrey.jpg", "assets/img/elrey2.jpg"],
+      "nodoX": 0.04,
+      "nodoY": 0.22
+    },
+    {
+      "id": 8,
+      "nombre": "Edzná",
+      "descripcion": "La Casa de los Itzáes, con más de una veintena de edificios monumentales.",
+      "estado": "Campeche",
+      "historia": "El asentamiento precolombino tuvo una extensión promedio de 25 km². Las primeras evidencias de presencia humana datan del año 600 a.C. Una pequeña comunidad creció y se desarrolló, conformando poco antes del inicio de nuestra era, un gobierno centralizado. Edzná constituyó una poderosa capital regional del occidente peninsular entre los años 400 y 1000 d.C., perdiendo fuerza política y económica en los siguientes cuatro siglos hasta su abandono alrededor del año 1450 d.C. Su arquitectura refleja una larga secuencia de construcciones a lo largo de poco más de 15 siglos, con influencias de estilos arquitectónicos como Chenes, Puuc y Tardíos.",
+      "modelo": "assets/modelos/edzna.glb",
+      "imagenes": ["assets/img/edzna.jpg", "assets/img/edzna2.jpg"],
+      "nodoX": 0.85,
+      "nodoY": 0.77
+    },
+    {
+      "id": 9,
+      "nombre": "Dzibilnocac",
+      "descripcion": "De su pasada grandeza quedan como testimonio una amplia plaza y espléndidos edificios, algunos decorados con mascarones.",
+      "estado": "Campeche",
+      "historia": "Los antiguos mayas construyeron Dzibilnocac en una amplia planicie y la ciudad presenta un patrón urbano caracterizado por un conjunto de patios y de plazas que estaban intercomunicados. Los volúmenes y la calidad arquitectónica van decreciendo conforme se alejan del centro hasta llegar a las zonas rurales. La parte central del asentamiento era habitada por los rectores o gobernantes, así como por los nobles, sacerdotes, mercaderes y especialistas de alto rango.",
+      "modelo": "assets/modelos/dzib.glb",
+      "imagenes": ["assets/img/dzib.jpg", "assets/img/dzib2.jpg"],
+      "nodoX": 0.68,
+      "nodoY": 0.70
+    },
+    {
+      "id": 10,
+      "nombre": "Kankí",
+      "descripcion": "Kankí es el nombre maya de un arbusto silvestre que produce abundantes florecillas amarillas.",
+      "estado": "Campeche",
+      "historia": "Kankí fue reportado por Pollock en mayo de 1940, durante sus exploraciones por la región Puuc del estado de Campeche. El nombre del sitio proviene de un arbusto silvestre local que produce abundantes florecillas amarillas.",
+      "modelo": "assets/modelos/kanki.glb",
+      "imagenes": ["assets/img/kanki.jpg", "assets/img/kanki2.jpg"],
+      "nodoX": 0.82,
+      "nodoY": 0.65
+    }
+  ]
+}
